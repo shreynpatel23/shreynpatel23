@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About
 
-<img src="/repository/assets/employee.png" alt="profile picture of shrey patel" width="50" height="60" title="Shrey Patel" >
+<img src="/images/profile_pic.jpg" alt="profile picture of shrey patel" width="50" height="60" title="Shrey Patel" >
 I am Shrey Patel experienced frontend developer with 4 years of professional experience in modern frontend frameworks like React JS, Angular, and Vue JS. 
 
 ## Social Accounts
