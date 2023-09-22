@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Shrey Patel 😎
 <!--
 **shreynpatel23/shreynpatel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
