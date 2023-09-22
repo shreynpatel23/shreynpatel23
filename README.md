@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 # About
 
-<img src="/images/profile_pic.jpg" alt="profile picture of shrey patel" height="100" style="border-radius: 50%" title="Shrey Patel" >
 I am Shrey Patel experienced frontend developer with 4 years of professional experience in modern frontend frameworks like React JS, Angular, and Vue JS. I have the ability to make dynamic web pages in one day. I have experience with backend technologies like Node JS, and Express JS. I am proficient in designing scalable products using Figma, and Adobe Xd.
 
 
