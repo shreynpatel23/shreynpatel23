@@ -1,4 +1,3 @@
-### Shrey Patel 😎
 <!--
 **shreynpatel23/shreynpatel23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# About
+
+<img src="/repository/assets/employee.png" alt="profile picture of shrey patel" width="50" height="60" title="Shrey Patel" >
+I am Shrey Patel experienced frontend developer with 4 years of professional experience in modern frontend frameworks like React JS, Angular, and Vue JS. 
+
+## Social Accounts
+- [LinkedIn](https://www.linkedin.com/in/shrey-patel-573087189/)
+- [Github](https://github.com/shreynpatel23)
+- [UI/UX Portfolio](https://shrey-portfolio.notion.site/shrey-portfolio/Hi-I-m-Shrey-d9311db22d114928b1f43dcfe8db6f35)
