@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 
 # About
 
-<img src="/images/profile_pic.jpg" alt="profile picture of shrey patel" width="50" height="60" title="Shrey Patel" >
-I am Shrey Patel experienced frontend developer with 4 years of professional experience in modern frontend frameworks like React JS, Angular, and Vue JS. 
+<img src="/images/profile_pic.jpg" alt="profile picture of shrey patel" height="100" style="border-radius: 50%" title="Shrey Patel" >
+I am Shrey Patel experienced frontend developer with 4 years of professional experience in modern frontend frameworks like React JS, Angular, and Vue JS. I have the ability to make dynamic web pages in one day. I have experience with backend technologies like Node JS, and Express JS. I am proficient in designing scalable products using Figma, and Adobe Xd.
+
+
+I am currently working on a project named Quizwise. This tool is used mainly by students to practice previous year's papers which we collect show and display on our platform. The project is deployed via AWS on [Quizwise](https://quizwise.ai/)
 
 ## Social Accounts
 - [LinkedIn](https://www.linkedin.com/in/shrey-patel-573087189/)
