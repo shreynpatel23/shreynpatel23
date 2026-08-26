@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello! I'm Shrey Patel, a passionate Senior Frontend Engineer with 4 years of experience in the field. I have a strong background in developing web applications using various technologies and frameworks, including React JS, Next JS, Express JS, Node JS, MongoDB, Tailwind CSS, CSS 3, HTML 5, and Bootstrap.
+Hello! I'm Shrey Patel, a passionate Senior Frontend Engineer with 7 years of experience in the field. I have a strong background in developing web applications using various technologies and frameworks, including React JS, Next JS, Express JS, Node JS, MongoDB, Tailwind CSS, CSS 3, HTML 5, and Bootstrap.
 
 ## Experience
 
